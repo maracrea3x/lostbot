@@ -1,1 +1,1 @@
-worker: node lost.js
+worker: node config.json
