@@ -11,4 +11,4 @@ client.on('message', message => {
   	}
 });
 
-client.login(process.env.NDU2MTM5MDI5MjMxMTczNjQ1.DgGMPg.becuRq1p60cgGQzxkbkIt50rjP8);
+client.login(NDU2MTM5MDI5MjMxMTczNjQ1.DgGMPg.becuRq1p60cgGQzxkbkIt50rjP8);
