@@ -4,7 +4,7 @@
   "description": "Message me for help",
   "main": "bot.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node lost.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
