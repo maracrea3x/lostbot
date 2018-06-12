@@ -1,6 +1,6 @@
 {
-  "name": "Test",
-  "description": "Test",
+  "name": "LOST Modmail",
+  "description": "DM To message Admins",
   "version": "0.0.0",
   "main": "bot.js",
   "scripts": {
